@@ -1,0 +1,28 @@
+body{
+    background-image: url("canva2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover; 
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 12cm;
+}
+
+p{
+line-height: -1cm;
+
+}
+h3{
+    color: salmon;
+    font-size: xx-large;
+}
+strong{
+    font-weight: bold;
+    font-size: x-large;
+    color: salmon;
+}
+
+.container{
+
+}

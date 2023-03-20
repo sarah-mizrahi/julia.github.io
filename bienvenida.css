@@ -1,0 +1,41 @@
+body{
+    /* background-color: rgb(228, 159, 182);*/
+    background-image: url("bienv.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /*background-position: center;*/
+    background-size: cover; 
+    /*backdrop-filter: blur(50px);*/
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+.container{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* color: rgb(68, 67, 67);*/
+    margin-top: 9cm;
+    font-size: small;
+    /*border-color: salmon;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px;*/
+    
+}
+.letrero{
+    
+    font-weight: bold;
+    font-size: x-large;
+    color: salmon;
+}
+.dormir{
+    font-size: x-large;
+    font-weight: bold;
+    color: salmon;
+}
+
+.fecha{
+
+    font-size: large;
+    color: salmon;
+}

@@ -1,0 +1,100 @@
+
+body{
+    background-image: url("canva.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    /*background-color: rgb(250, 139, 127);*/
+    /*border-color: white;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px;*/
+
+
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1cm;
+}
+.container{
+    font-weight: bold;
+    text-align: center;
+    /*min-width: 300px;
+    width: 100%;
+    height: 100%;*/
+    margin: 1cm;
+    color: rgb(44, 19, 104);
+}
+
+.ella{
+    
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /*margin-left: 12cm;*/
+    text-align: center;
+}
+.si{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+
+}
+
+.nosotras{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    padding-top: -1cm;
+    text-align: center;
+}
+.celebrar{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    padding-top: 0cm;
+    /* margin-left: 13cm;*/
+    text-align: center;
+}
+.nuestra{
+    
+    font-size: large;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 0cm;
+    text-align: center;
+}
+.julia{
+    
+    font-weight: bold;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    /*margin-left: 1cm;*/
+
+}
+.casa{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    padding-top: -0.95cm;
+    text-align: center;
+}
+.empezamos{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /*margin-left: 18.5cm;*/
+    font-size: medium;
+
+}
+/*.bienvenida{
+    color: rgb(99, 98, 98);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: x-large;
+}*/
+/*@media (max-width: 858px) {
+    .container{
+        width: 100%;
+        height: 100vh;
+    }
+}*/
